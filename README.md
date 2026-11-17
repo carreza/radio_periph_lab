@@ -25,7 +25,7 @@ cd /run/media/mmcblk0p1/
 ./config_codec.sh
 ```
 
-Running Testfile
+### Running Testfile
 ```
 cd /home/student/
 gcc test_radio.c -o test_radio
