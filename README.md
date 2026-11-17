@@ -27,6 +27,7 @@ cd /run/media/mmcblk0p1/
 
 Running Testfile
 ```
+cd /home/student/
 gcc test_radio.c -o test_radio
 ./test_radio 
 ```
